@@ -1,4 +1,6 @@
 git init >> git initializing
-
 git status >> list untracked files
+
+git add -A >> adding all files to the staging area
+git commit -m "message" >> moving staged files to the local repository
 
