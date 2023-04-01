@@ -4,3 +4,6 @@ git status >> list untracked files
 git add -A >> adding all files to the staging area
 git commit -m "message" >> moving staged files to the local repository
 
+git clone >> remote repository to the local repository
+git push >> local workspace to the remote repository
+git pull >> remote repository to the local work space
